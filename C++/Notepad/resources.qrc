@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>icons/Actions-document-open-icon.png</file>
+        <file>icons/Actions-zoom-out-icon.png</file>
+        <file>icons/Align-Center-icon.png</file>
+        <file>icons/Align-JustifyAll-icon.png</file>
+        <file>icons/Align-Left-icon.png</file>
+        <file>icons/Align-Right-icon.png</file>
+        <file>icons/calendar-icon.png</file>
+        <file>icons/copy-icon.png</file>
+        <file>icons/cut-icon.png</file>
+        <file>icons/Editing-Underline-icon.png</file>
+        <file>icons/new-page-icon.png</file>
+        <file>icons/notepad-icon.png</file>
+        <file>icons/Paste-icon.png</file>
+        <file>icons/Printer-icon.png</file>
+        <file>icons/redo-icon.png</file>
+        <file>icons/Save-as-icon.png</file>
+        <file>icons/Save-icon (1).png</file>
+        <file>icons/search-file-icon.png</file>
+        <file>icons/Undo-icon.png</file>
+        <file>icons/zoom-in-icon.png</file>
+        <file>icons/zoom-out-icon.png</file>
+        <file>icons/Actions-help-about-icon.png</file>
+        <file>icons/delete-1-icon.png</file>
+        <file>icons/Editing-Bold-icon (2).png</file>
+        <file>icons/Editing-Italic-icon (1).png</file>
+        <file>icons/font-icon.png</file>
+        <file>icons/Apps-Color-D-icon.png</file>
+        <file>icons/Paint-bucket-tool-icon.png</file>
+        <file>icons/Editing-Bold-icon (1).png</file>
+        <file>icons/Editing-Bold-icon.png</file>
+        <file>icons/Editing-Italic-icon.png</file>
+        <file>icons/Save-icon.png</file>
+        <file>icons/Fonts-Folder-icon.png</file>
+        <file>icons/about.png</file>
+        <file>icons/add-file.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save.png</file>
+        <file>icons/save-as.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/center-align-.png</file>
+        <file>icons/close-64.png</file>
+        <file>icons/date-64.png</file>
+        <file>icons/font-size-48.png</file>
+        <file>icons/justification.png</file>
+        <file>icons/left-align.png</file>
+        <file>icons/print.png</file>
+        <file>icons/right-align.png</file>
+        <file>icons/zoom-in-2x.png</file>
+        <file>icons/zoom-out-2x.png</file>
+        <file>icons/fill-color-48.png</file>
+        <file>icons/search-64.png</file>
+    </qresource>
+</RCC>
