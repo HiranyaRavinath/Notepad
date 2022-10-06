@@ -1,2 +1,2 @@
-# Notepad---C-
+# Notepad
 Notepad
